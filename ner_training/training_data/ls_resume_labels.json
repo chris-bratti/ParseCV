@@ -1,0 +1,4307 @@
+[
+  {
+    "text": "The Hartford Associate Software Engineer Supported the development of PolicyCenter, a core insurance platform Developed Python scripts to automate error detection and improve workflows Spearheaded migration of legacy SOAP services to modern RESTful APIs Integrated PolicyCenter with other applications within the Hartford Automated API testing using the Karate framework Designed and optimized reusable SQL queries for ad hoc business needs Booz Allen Hamilton Bachelor of Computer Science Associate of Science Software Engineer, Senior Consultant University of North Carolina at Charlotte Rowan Cabarrus Community College Develop and maintain suite of Spring Boot RESTful APIs Lead functionality implementation and project architecture planning Collaborate with Scrum team to deliver fully-tested, production ready solutions Applied Test-Driven Development principles using JUnit, maintaining 95%+ code coverage Deploy applications into an AWS-based Kubernetes environment Create tooling for automating workflows with Bash, Rust, and Python Apr 2022 - Present Jan 2021 - Aug 2021 Software Engineer, Senior Consultant (919) 867 5077 | christopherbratti@gmail.com | linkedin.com\/in\/chrisbratti | github.com\/chris-bratti www.chrisbratti.com Chris Bratti PROFESSIONAL EXPERIENCE EDUCATION OVERVIEW Focus in AI, Robotics, and Gaming Highly motivated Software Engineer with 6 years of experience designing, implementing, and deploying microservices in cloud environments. Extensive expertise in developing RESTful APIs, test automation, and managing deployment pipelines within Agile teams. Known for clear communication, a proven track record of delivering results, and a passion for solving complex problems. TECHNICAL SKILLS Software Engineer Aug 2021 - Apr 2022 Special Applications Developer Jan 2019 - Jan 2021 Auth Leptos WireGuard-Init A full stack user authentication app written in Rust https:\/\/github.com\/chris-bratti\/wireguard-init SAMPLE PROJECTS https:\/\/github.com\/chris-bratti\/auth_leptos A script to automate the deployment of a WireGuard server and peers Languages: Java, Rust, Bash, Python, SQL Frameworks & Testing Tools: Spring Boot, jUnit, AssertJ, Mockito DevOps & Deployment: Docker, Kubernetes, AWS, Jenkins, ArgoCD Development Tools: Git, GitHub, Swagger, Postman, IntelliJ",
+    "id": 51,
+    "label": [
+      {
+        "start": 0,
+        "end": 12,
+        "text": "The Hartford",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 40,
+        "text": "Associate Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 109,
+        "text": "Supported the development of PolicyCenter, a core insurance platform",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 184,
+        "text": "Developed Python scripts to automate error detection and improve workflows",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 185,
+        "end": 253,
+        "text": "Spearheaded migration of legacy SOAP services to modern RESTful APIs",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 254,
+        "end": 321,
+        "text": "Integrated PolicyCenter with other applications within the Hartford",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 322,
+        "end": 370,
+        "text": "Automated API testing using the Karate framework",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 371,
+        "end": 440,
+        "text": "Designed and optimized reusable SQL queries for ad hoc business needs",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 441,
+        "end": 460,
+        "text": "Booz Allen Hamilton",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 461,
+        "end": 489,
+        "text": "Bachelor of Computer Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 490,
+        "end": 510,
+        "text": "Associate of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 511,
+        "end": 547,
+        "text": "Software Engineer, Senior Consultant",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 548,
+        "end": 589,
+        "text": "University of North Carolina at Charlotte",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 590,
+        "end": 622,
+        "text": "Rowan Cabarrus Community College",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 623,
+        "end": 677,
+        "text": "Develop and maintain suite of Spring Boot RESTful APIs",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 678,
+        "end": 745,
+        "text": "Lead functionality implementation and project architecture planning",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 746,
+        "end": 825,
+        "text": "Collaborate with Scrum team to deliver fully-tested, production ready solutions",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 826,
+        "end": 912,
+        "text": "Applied Test-Driven Development principles using JUnit, maintaining 95%+ code coverage",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 913,
+        "end": 973,
+        "text": "Deploy applications into an AWS-based Kubernetes environment",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 974,
+        "end": 1041,
+        "text": "Create tooling for automating workflows with Bash, Rust, and Python",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1042,
+        "end": 1060,
+        "text": "Apr 2022 - Present",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1061,
+        "end": 1080,
+        "text": "Jan 2021 - Aug 2021",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1081,
+        "end": 1117,
+        "text": "Software Engineer, Senior Consultant",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1118,
+        "end": 1132,
+        "text": "(919) 867 5077",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 1135,
+        "end": 1162,
+        "text": "christopherbratti@gmail.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 1165,
+        "end": 1192,
+        "text": "linkedin.com\/in\/chrisbratti",
+        "labels": [
+          "LINKEDIN"
+        ]
+      },
+      {
+        "start": 1195,
+        "end": 1218,
+        "text": "github.com\/chris-bratti",
+        "labels": [
+          "GITHUB"
+        ]
+      },
+      {
+        "start": 1219,
+        "end": 1238,
+        "text": "www.chrisbratti.com",
+        "labels": [
+          "WEBSITE"
+        ]
+      },
+      {
+        "start": 1239,
+        "end": 1251,
+        "text": "Chris Bratti",
+        "labels": [
+          "NAME"
+        ]
+      },
+      {
+        "start": 1252,
+        "end": 1275,
+        "text": "PROFESSIONAL EXPERIENCE",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1276,
+        "end": 1285,
+        "text": "EDUCATION",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1286,
+        "end": 1294,
+        "text": "OVERVIEW",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1329,
+        "end": 1705,
+        "text": "Highly motivated Software Engineer with 6 years of experience designing, implementing, and deploying microservices in cloud environments. Extensive expertise in developing RESTful APIs, test automation, and managing deployment pipelines within Agile teams. Known for clear communication, a proven track record of delivering results, and a passion for solving complex problems.",
+        "labels": [
+          "OVERVIEW"
+        ]
+      },
+      {
+        "start": 1706,
+        "end": 1722,
+        "text": "TECHNICAL SKILLS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1723,
+        "end": 1740,
+        "text": "Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1741,
+        "end": 1760,
+        "text": "Aug 2021 - Apr 2022",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1761,
+        "end": 1791,
+        "text": "Special Applications Developer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1792,
+        "end": 1811,
+        "text": "Jan 2019 - Jan 2021",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1939,
+        "end": 1954,
+        "text": "SAMPLE PROJECTS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 2078,
+        "end": 2082,
+        "text": "Java",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2084,
+        "end": 2088,
+        "text": "Rust",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2090,
+        "end": 2094,
+        "text": "Bash",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2096,
+        "end": 2102,
+        "text": "Python",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2104,
+        "end": 2107,
+        "text": "SQL",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 2136,
+        "end": 2147,
+        "text": "Spring Boot",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2149,
+        "end": 2154,
+        "text": "jUnit",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2156,
+        "end": 2163,
+        "text": "AssertJ",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2165,
+        "end": 2172,
+        "text": "Mockito",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2194,
+        "end": 2200,
+        "text": "Docker",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2202,
+        "end": 2212,
+        "text": "Kubernetes",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2214,
+        "end": 2217,
+        "text": "AWS",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2219,
+        "end": 2226,
+        "text": "Jenkins",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2228,
+        "end": 2234,
+        "text": "ArgoCD",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2254,
+        "end": 2257,
+        "text": "Git",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2259,
+        "end": 2265,
+        "text": "GitHub",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2267,
+        "end": 2274,
+        "text": "Swagger",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2276,
+        "end": 2283,
+        "text": "Postman",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2285,
+        "end": 2293,
+        "text": "IntelliJ",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2025-04-02T17:47:27.686510Z",
+    "updated_at": "2025-04-02T17:47:27.686524Z",
+    "lead_time": 252.917
+  },
+  {
+    "text": "919-867-5077 christopherbratti@gmail.com www.chrisbratti.com linkedin.com\/in\/chrisbratti C O N T A C T A B O U T M E L A N G U A G E S T E C H N O L O G I E S W O R K E X P E R I E N C E Booz Allen Hamilton Software Engineer, Senior Consultant | Develop and support Spring Boot RESTful APIs for VA contracts Collaborate with scrum team to drive business growth and client satisfaction through delivery of fully-tested products Analyze user story requirements to create scalable and efficient code Lead large scale functionality implementation and project architectural planning Leverage JUnit & JaCoco to implement test-driven development through the use of unit and integration tests as well as ensure a minimum of 95% code coverage Construct data visualizations through Kibana to allow for performance monitoring and alerting Automate tasks with Bash and Python scripts to streamline team productivity Spearheaded deployment migration efforts to allow for a more robust deployment pipeline with Kubernetes and ArgoCD Crafted and executed load testing plans with Grafana's K6 library to provide insight into API load endurance April 2022 - Present Hi there! My name is Chris. With 5 years of experience as a software engineer, I have specialized in backend and API development, bringing a strong focus on delivering robust and scalable solutions. My passion for creative problem solving drives me to tackle complex challenges and continuously learn new technologies and methodologies. I thrive in dynamic environments where I can leverage my skills to create impactful software that meets both user and business needs. To learn more about me, check out my website at www.chrisbratti.com Username: guest Password: yourehired2024! C H R I S B R A T T I S O F T W A R E E N G I N E E R , S E N I O R C O N S U L T A N T The Hartford Associate Software Engineer | Supported production of core insurance policy management application, PolicyCenter Built reusable SQL queries against a complex data model for ad hoc business needs Developed new functionality to allow PolicyCenter to be a seamless user experience Integrated PolicyCenter with other Hartford applications through custom REST APIs Created automated unit tests for APIs with Karate testing Diagnosed bugs and defects to improve code design Collaborated with Scrum Team members as well as members from outside teams to achieve goals and meet Sprint deadlines January 2021 - August 2021 github.com\/chris-bratti PROFICIENT Java COMFORTABLE Python Rust Bash SQL FAMILIAR Go HTML CSS Spring Boot, RESTful APIs, Swagger, openAPI Git\/GitHub Docker, Jenkins, Kubernetes, ArgoCD, AWS jUnit, AssertJ, Mockito, Lombok Linux S K I L L S Professional communication Critical thinking Problem solving Adaptability Creativity E D U C A T I O N University of North Carolina at Charlotte Bachelor of Computer Science Rowan Cabarrus Community College Associate of Science Special Applications Developer | January 2019 - January 2021 Software Engineer | August 2021- April 2022",
+    "id": 52,
+    "label": [
+      {
+        "start": 0,
+        "end": 12,
+        "text": "919-867-5077",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 40,
+        "text": "christopherbratti@gmail.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 60,
+        "text": "www.chrisbratti.com",
+        "labels": [
+          "WEBSITE"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 88,
+        "text": "linkedin.com\/in\/chrisbratti",
+        "labels": [
+          "LINKEDIN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 102,
+        "text": "C O N T A C T",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 116,
+        "text": "A B O U T M E",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 134,
+        "text": "L A N G U A G E S",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 135,
+        "end": 158,
+        "text": "T E C H N O L O G I E S",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 159,
+        "end": 186,
+        "text": "W O R K E X P E R I E N C E",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 187,
+        "end": 206,
+        "text": "Booz Allen Hamilton",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 207,
+        "end": 243,
+        "text": "Software Engineer, Senior Consultant",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 246,
+        "end": 307,
+        "text": "Develop and support Spring Boot RESTful APIs for VA contracts",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 308,
+        "end": 426,
+        "text": "Collaborate with scrum team to drive business growth and client satisfaction through delivery of fully-tested products",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 427,
+        "end": 496,
+        "text": "Analyze user story requirements to create scalable and efficient code",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 497,
+        "end": 577,
+        "text": "Lead large scale functionality implementation and project architectural planning",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 578,
+        "end": 733,
+        "text": "Leverage JUnit & JaCoco to implement test-driven development through the use of unit and integration tests as well as ensure a minimum of 95% code coverage",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 734,
+        "end": 827,
+        "text": "Construct data visualizations through Kibana to allow for performance monitoring and alerting",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 828,
+        "end": 903,
+        "text": "Automate tasks with Bash and Python scripts to streamline team productivity",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 904,
+        "end": 1018,
+        "text": "Spearheaded deployment migration efforts to allow for a more robust deployment pipeline with Kubernetes and ArgoCD",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1019,
+        "end": 1127,
+        "text": "Crafted and executed load testing plans with Grafana's K6 library to provide insight into API load endurance",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1128,
+        "end": 1148,
+        "text": "April 2022 - Present",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1149,
+        "end": 1664,
+        "text": "Hi there! My name is Chris. With 5 years of experience as a software engineer, I have specialized in backend and API development, bringing a strong focus on delivering robust and scalable solutions. My passion for creative problem solving drives me to tackle complex challenges and continuously learn new technologies and methodologies. I thrive in dynamic environments where I can leverage my skills to create impactful software that meets both user and business needs. To learn more about me, check out my website",
+        "labels": [
+          "OVERVIEW"
+        ]
+      },
+      {
+        "start": 1818,
+        "end": 1830,
+        "text": "The Hartford",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 1831,
+        "end": 1858,
+        "text": "Associate Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1861,
+        "end": 1943,
+        "text": "Supported production of core insurance policy management application, PolicyCenter",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1944,
+        "end": 2025,
+        "text": "Built reusable SQL queries against a complex data model for ad hoc business needs",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 2026,
+        "end": 2108,
+        "text": "Developed new functionality to allow PolicyCenter to be a seamless user experience",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 2109,
+        "end": 2190,
+        "text": "Integrated PolicyCenter with other Hartford applications through custom REST APIs",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 2191,
+        "end": 2248,
+        "text": "Created automated unit tests for APIs with Karate testing",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 2249,
+        "end": 2298,
+        "text": "Diagnosed bugs and defects to improve code design",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 2299,
+        "end": 2416,
+        "text": "Collaborated with Scrum Team members as well as members from outside teams to achieve goals and meet Sprint deadlines",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 2417,
+        "end": 2443,
+        "text": "January 2021 - August 2021",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 2444,
+        "end": 2467,
+        "text": "github.com\/chris-bratti",
+        "labels": [
+          "GITHUB"
+        ]
+      },
+      {
+        "start": 2479,
+        "end": 2483,
+        "text": "Java",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2496,
+        "end": 2502,
+        "text": "Python",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2503,
+        "end": 2507,
+        "text": "Rust",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2508,
+        "end": 2512,
+        "text": "Bash",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2513,
+        "end": 2516,
+        "text": "SQL",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 2526,
+        "end": 2528,
+        "text": "Go",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2529,
+        "end": 2533,
+        "text": "HTML",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2534,
+        "end": 2537,
+        "text": "CSS",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2538,
+        "end": 2549,
+        "text": "Spring Boot",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2551,
+        "end": 2563,
+        "text": "RESTful APIs",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2565,
+        "end": 2572,
+        "text": "Swagger",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2574,
+        "end": 2581,
+        "text": "openAPI",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2593,
+        "end": 2599,
+        "text": "Docker",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2601,
+        "end": 2608,
+        "text": "Jenkins",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2610,
+        "end": 2620,
+        "text": "Kubernetes",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2622,
+        "end": 2628,
+        "text": "ArgoCD",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2630,
+        "end": 2633,
+        "text": "AWS",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2634,
+        "end": 2639,
+        "text": "jUnit",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2641,
+        "end": 2648,
+        "text": "AssertJ",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2650,
+        "end": 2657,
+        "text": "Mockito",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2659,
+        "end": 2665,
+        "text": "Lombok",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2666,
+        "end": 2671,
+        "text": "Linux",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2769,
+        "end": 2786,
+        "text": "E D U C A T I O N",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 2787,
+        "end": 2828,
+        "text": "University of North Carolina at Charlotte",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 2829,
+        "end": 2857,
+        "text": "Bachelor of Computer Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 2858,
+        "end": 2890,
+        "text": "Rowan Cabarrus Community College",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 2891,
+        "end": 2911,
+        "text": "Associate of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 2912,
+        "end": 2942,
+        "text": "Special Applications Developer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 2945,
+        "end": 2972,
+        "text": "January 2019 - January 2021",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 2973,
+        "end": 2990,
+        "text": "Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 2993,
+        "end": 3016,
+        "text": "August 2021- April 2022",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2025-04-02T14:25:29.576133Z",
+    "updated_at": "2025-04-02T14:25:29.576154Z",
+    "lead_time": 446.721
+  },
+  {
+    "text": "Bachelor of Computer Science University of North Carolina at Charlotte Associate of Science Rowan Cabarrus Community College Senior Software Engineer (919) 867 5077 | christopherbratti@gmail.com www.chrisbratti.com | github.com\/chris-bratti | linkedin.com\/in\/chrisbratti Chris Bratti PROFESSIONAL EXPERIENCE EDUCATION OVERVIEW Results-driven Software Engineer with 6 years of experience building scalable microservices and deploying cloud- native solutions. Proficient in RESTful API development, performance optimization, and automation with Kubernetes, ArgoCD, and CI\/CD pipelines. Strong communicator with experience leading implementations, mentoring engineers, and delivering production-ready solutions in Agile teams. TECHNICAL SKILLS Booz Allen Hamilton Senior Software Engineer Develop and maintain suite of Spring Boot APIs, optimizing performance and scalability Lead functionality implementation and project architecture planning Redesign high-traffic API endpoints and data layer to improve usability and performance Apply Test-Driven Development principles using JUnit, maintaining 95%+ code coverage Deploy applications into a Highly-Available EKS Kubernetes platform, maintaining 98%+ uptime Securely manage injecting secrets into Kubernetes applications with HashiCorp Vault Spearhead automated load testing efforts to ensure API durability and SLA compliance (<2% error rate) Mentor junior engineers on Kubernetes, API design, and automation best practices Aug 2021 - Present The Hartford Associate Software Engineer Developed core functionality for an enterprise insurance platform Developed Python scripts to automate error detection and streamline workflows Migrated legacy SOAP services to RESTful APIs, improving integration and maintainability Integrated platform with other internal systems, enhancing data exchange Automated API testing using the Karate framework to reduce manual testing effort Designed and optimized reusable SQL queries to provide important data insights Jan 2019- Aug 2021 Languages: Java, Rust, Bash, Python, SQL Frameworks & Libraries: Spring Boot, jUnit, AssertJ, Mockito, OAuth2 DevOps & Deployment: Kubernetes, Docker, AWS, HashiCorp, Helm, ArgoCD, Jenkins Database: SQL Server, PostgreSQL, Amazon RDS, Liquibase Tools: Git, GitHub, OpenAPI & Swagger, Postman, IntelliJ",
+    "id": 54,
+    "label": [
+      {
+        "start": 0,
+        "end": 28,
+        "text": "Bachelor of Computer Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 70,
+        "text": "University of North Carolina at Charlotte",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 91,
+        "text": "Associate of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 124,
+        "text": "Rowan Cabarrus Community College",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 150,
+        "end": 164,
+        "text": "(919) 867 5077",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 167,
+        "end": 194,
+        "text": "christopherbratti@gmail.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 195,
+        "end": 214,
+        "text": "www.chrisbratti.com",
+        "labels": [
+          "WEBSITE"
+        ]
+      },
+      {
+        "start": 217,
+        "end": 240,
+        "text": "github.com\/chris-bratti",
+        "labels": [
+          "GITHUB"
+        ]
+      },
+      {
+        "start": 243,
+        "end": 270,
+        "text": "linkedin.com\/in\/chrisbratti",
+        "labels": [
+          "LINKEDIN"
+        ]
+      },
+      {
+        "start": 271,
+        "end": 283,
+        "text": "Chris Bratti",
+        "labels": [
+          "NAME"
+        ]
+      },
+      {
+        "start": 284,
+        "end": 307,
+        "text": "PROFESSIONAL EXPERIENCE",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 308,
+        "end": 317,
+        "text": "EDUCATION",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 318,
+        "end": 326,
+        "text": "OVERVIEW",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 327,
+        "end": 722,
+        "text": "Results-driven Software Engineer with 6 years of experience building scalable microservices and deploying cloud- native solutions. Proficient in RESTful API development, performance optimization, and automation with Kubernetes, ArgoCD, and CI\/CD pipelines. Strong communicator with experience leading implementations, mentoring engineers, and delivering production-ready solutions in Agile teams",
+        "labels": [
+          "OVERVIEW"
+        ]
+      },
+      {
+        "start": 724,
+        "end": 740,
+        "text": "TECHNICAL SKILLS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 741,
+        "end": 760,
+        "text": "Booz Allen Hamilton",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 761,
+        "end": 785,
+        "text": "Senior Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 786,
+        "end": 872,
+        "text": "Develop and maintain suite of Spring Boot APIs, optimizing performance and scalability",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 873,
+        "end": 940,
+        "text": "Lead functionality implementation and project architecture planning",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 941,
+        "end": 1028,
+        "text": "Redesign high-traffic API endpoints and data layer to improve usability and performance",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1029,
+        "end": 1113,
+        "text": "Apply Test-Driven Development principles using JUnit, maintaining 95%+ code coverage",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1114,
+        "end": 1206,
+        "text": "Deploy applications into a Highly-Available EKS Kubernetes platform, maintaining 98%+ uptime",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1207,
+        "end": 1290,
+        "text": "Securely manage injecting secrets into Kubernetes applications with HashiCorp Vault",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1291,
+        "end": 1392,
+        "text": "Spearhead automated load testing efforts to ensure API durability and SLA compliance (<2% error rate)",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1393,
+        "end": 1473,
+        "text": "Mentor junior engineers on Kubernetes, API design, and automation best practices",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1474,
+        "end": 1492,
+        "text": "Aug 2021 - Present",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1493,
+        "end": 1505,
+        "text": "The Hartford",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 1506,
+        "end": 1533,
+        "text": "Associate Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1534,
+        "end": 1599,
+        "text": "Developed core functionality for an enterprise insurance platform",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1600,
+        "end": 1677,
+        "text": "Developed Python scripts to automate error detection and streamline workflows",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1678,
+        "end": 1766,
+        "text": "Migrated legacy SOAP services to RESTful APIs, improving integration and maintainability",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1767,
+        "end": 1839,
+        "text": "Integrated platform with other internal systems, enhancing data exchange",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1840,
+        "end": 1920,
+        "text": "Automated API testing using the Karate framework to reduce manual testing effort",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1921,
+        "end": 1999,
+        "text": "Designed and optimized reusable SQL queries to provide important data insights",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 2000,
+        "end": 2018,
+        "text": "Jan 2019- Aug 2021",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 2030,
+        "end": 2034,
+        "text": "Java",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2036,
+        "end": 2040,
+        "text": "Rust",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2042,
+        "end": 2046,
+        "text": "Bash",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2048,
+        "end": 2054,
+        "text": "Python",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2056,
+        "end": 2059,
+        "text": "SQL",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 2084,
+        "end": 2095,
+        "text": "Spring Boot",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2097,
+        "end": 2102,
+        "text": "jUnit",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2104,
+        "end": 2111,
+        "text": "AssertJ",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2113,
+        "end": 2120,
+        "text": "Mockito",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2122,
+        "end": 2128,
+        "text": "OAuth2",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2150,
+        "end": 2160,
+        "text": "Kubernetes",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2162,
+        "end": 2168,
+        "text": "Docker",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2170,
+        "end": 2173,
+        "text": "AWS",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2175,
+        "end": 2184,
+        "text": "HashiCorp",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2186,
+        "end": 2190,
+        "text": "Helm",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2192,
+        "end": 2198,
+        "text": "ArgoCD",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2200,
+        "end": 2207,
+        "text": "Jenkins",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2218,
+        "end": 2228,
+        "text": "SQL Server",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 2230,
+        "end": 2240,
+        "text": "PostgreSQL",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 2242,
+        "end": 2252,
+        "text": "Amazon RDS",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 2254,
+        "end": 2263,
+        "text": "Liquibase",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 2271,
+        "end": 2274,
+        "text": "Git",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2276,
+        "end": 2282,
+        "text": "GitHub",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2284,
+        "end": 2291,
+        "text": "OpenAPI",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2294,
+        "end": 2301,
+        "text": "Swagger",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2303,
+        "end": 2310,
+        "text": "Postman",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2312,
+        "end": 2320,
+        "text": "IntelliJ",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2025-04-02T15:09:29.088585Z",
+    "updated_at": "2025-04-02T15:09:29.088599Z",
+    "lead_time": 371.639
+  },
+  {
+    "text": "AMANDA TAYLOR Backend Software Engineer a.taylor@email.com (123) 456-7890 Bellevue, WA LinkedIn EDUCATION Bachelor of Science Computer Science and Engineering University of Washington 2014 - 2017 Seattle, WA SKILLS Visual Studio Code Git Python Django PostgreSQL MongoDB Postman Docker AWS Jenkins WORK EXPERIENCE Backend Software Engineer Smartsheet 2022 - current Bellevue, WA Led the migration of a legacy system to AWS, reducing server costs by $42,983 per year Developed backend APIs with Django, increasing transaction processing speed by 21% Managed CI\/CD pipelines using Jenkins, reducing deployment times by 31 minutes per release Analyzed system performance using Python scripts, identifying and resolving bottlenecks that improved response times by 17% Associate Software Engineer Avalara 2019 - 2022 Seattle, WA Systematized database indexing in PostgreSQL, decreasing query response times by 19% Supervised the setup of Postman collections for API testing, which streamlined the QA process and bolstered testing efficiency Overhauled the existing Docker container strategy, resulting in a 21% increase in application performance Persuaded the team to transition to Visual Studio Code, enhancing development speed and collaboration Conducted training sessions that led to a 23% improvement in junior developers' coding efficiency Junior Backend Developer Redfin 2017 - 2019 Seattle, WA Negotiated with cloud service providers, securing better pricing agreements that saved the company $5,817 per year Spearheaded the implementation of Git for source control, minimizing deployment issues by 14% Analyzed data access patterns using MongoDB's built-in tools, optimizing database performance and reducing query times by 12% Overhauled legacy code, achieving an 11% reduction in technical debt and enhancing system performance and reliability",
+    "id": 59,
+    "label": [
+      {
+        "start": 0,
+        "end": 13,
+        "text": "AMANDA TAYLOR",
+        "labels": [
+          "NAME"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 58,
+        "text": "a.taylor@email.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 73,
+        "text": "(123) 456-7890",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 105,
+        "text": "EDUCATION",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 125,
+        "text": "Bachelor of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 158,
+        "text": "Computer Science and Engineering",
+        "labels": [
+          "EDU_MAJOR"
+        ]
+      },
+      {
+        "start": 159,
+        "end": 183,
+        "text": "University of Washington",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 208,
+        "end": 214,
+        "text": "SKILLS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 215,
+        "end": 233,
+        "text": "Visual Studio Code",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 234,
+        "end": 237,
+        "text": "Git",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 238,
+        "end": 244,
+        "text": "Python",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 245,
+        "end": 251,
+        "text": "Django",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 252,
+        "end": 262,
+        "text": "PostgreSQL",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 263,
+        "end": 270,
+        "text": "MongoDB",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 271,
+        "end": 278,
+        "text": "Postman",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 279,
+        "end": 285,
+        "text": "Docker",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 286,
+        "end": 289,
+        "text": "AWS",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 290,
+        "end": 297,
+        "text": "Jenkins",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 298,
+        "end": 313,
+        "text": "WORK EXPERIENCE",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 314,
+        "end": 339,
+        "text": "Backend Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 340,
+        "end": 350,
+        "text": "Smartsheet",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 351,
+        "end": 365,
+        "text": "2022 - current",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 366,
+        "end": 378,
+        "text": "Bellevue, WA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 379,
+        "end": 465,
+        "text": "Led the migration of a legacy system to AWS, reducing server costs by $42,983 per year",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 466,
+        "end": 548,
+        "text": "Developed backend APIs with Django, increasing transaction processing speed by 21%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 549,
+        "end": 639,
+        "text": "Managed CI\/CD pipelines using Jenkins, reducing deployment times by 31 minutes per release",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 640,
+        "end": 763,
+        "text": "Analyzed system performance using Python scripts, identifying and resolving bottlenecks that improved response times by 17%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 764,
+        "end": 791,
+        "text": "Associate Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 792,
+        "end": 799,
+        "text": "Avalara",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 800,
+        "end": 811,
+        "text": "2019 - 2022",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 812,
+        "end": 823,
+        "text": "Seattle, WA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 824,
+        "end": 908,
+        "text": "Systematized database indexing in PostgreSQL, decreasing query response times by 19%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 909,
+        "end": 1035,
+        "text": "Supervised the setup of Postman collections for API testing, which streamlined the QA process and bolstered testing efficiency",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1036,
+        "end": 1141,
+        "text": "Overhauled the existing Docker container strategy, resulting in a 21% increase in application performance",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1142,
+        "end": 1243,
+        "text": "Persuaded the team to transition to Visual Studio Code, enhancing development speed and collaboration",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1244,
+        "end": 1341,
+        "text": "Conducted training sessions that led to a 23% improvement in junior developers' coding efficiency",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1342,
+        "end": 1366,
+        "text": "Junior Backend Developer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1367,
+        "end": 1373,
+        "text": "Redfin",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 1374,
+        "end": 1385,
+        "text": "2017 - 2019",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1386,
+        "end": 1397,
+        "text": "Seattle, WA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 1398,
+        "end": 1512,
+        "text": "Negotiated with cloud service providers, securing better pricing agreements that saved the company $5,817 per year",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1513,
+        "end": 1606,
+        "text": "Spearheaded the implementation of Git for source control, minimizing deployment issues by 14%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1607,
+        "end": 1732,
+        "text": "Analyzed data access patterns using MongoDB's built-in tools, optimizing database performance and reducing query times by 12%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1733,
+        "end": 1850,
+        "text": "Overhauled legacy code, achieving an 11% reduction in technical debt and enhancing system performance and reliability",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2025-04-02T15:13:29.471002Z",
+    "updated_at": "2025-04-02T15:13:29.471022Z",
+    "lead_time": 234.501
+  },
+  {
+    "text": "CONTACT v.reed@email.com (123) 456-7890 Redwood City, CA LinkedIn EDUCATION Bachelor of Arts Computer Science University of California 2014 - 2018 Berkeley, CA SKILLS TestNG TestRail CircleCI Perforce Apache Benchmark (ab) SoapUI VMware qTest ESLint F5 BIG-IP WORK EXPERIENCE Software Quality Engineer Electronic Arts (EA) 2022 - current \/ Redwood City, CA Executed 129 automated test cases with TestNG, expanding test coverage by 29% for EA's latest gaming platforms. Maintained 58 SOAP and REST API tests using SoapUI, decreasing backend bugs and ensuring high reliability in multiplayer features. Improved code quality by integrating ESLint into the development workflow, reducing coding errors by 12% in multiple game projects. Contributed to upgrading continuous delivery processes, achieving a 3-week faster release cycle for 7 game updates with CircleCI. Software Developer in Test (SDET) Microsoft 2020 - 2022 \/ Sunnyvale, CA Developed 85+ automated test cases in TestRail, eliminating 6 manual testing tasks and expediting release cycles for 2 Microsoft Office products. Designed automated scripts to enforce coding standards, lowering reported code integration issues by 14% . Tested the backend using Apache Benchmark, simulating heavy loads of up to 391K+ simultaneous users to ensure ease of use in Microsoft's cloud services under high-volume usage conditions. Initiated a team training program on using Perforce effectively, allowing developers to cut down merge conflict incidents by 27% within one quarter. Automation Tester LinkedIn 2018 - 2020 \/ Sunnyvale, CA Implemented 53 automation test scripts with VMware, enhancing system reliability via quick identification and resolution of bugs. Trained a team of 5 junior testers in following the best automation practices, helping them complete 2 more automation tasks every month. Wrote comprehensive test documentation and tutorials for qTest within LinkedIn which was later adopted by 97% of other teams. Held detailed performance testing sessions on F5 BIG-IP tools, discovering 9 bottlenecks that hindered system performance. Software Quality Engineer VICTOR REED",
+    "id": 60,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "CONTACT",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 24,
+        "text": "v.reed@email.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "text": "(123) 456-7890",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 75,
+        "text": "EDUCATION",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 92,
+        "text": "Bachelor of Arts",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 109,
+        "text": "Computer Science",
+        "labels": [
+          "EDU_MAJOR"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 134,
+        "text": "University of California",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 160,
+        "end": 166,
+        "text": "SKILLS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 167,
+        "end": 173,
+        "text": "TestNG",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 174,
+        "end": 182,
+        "text": "TestRail",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 183,
+        "end": 191,
+        "text": "CircleCI",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 192,
+        "end": 222,
+        "text": "Perforce Apache Benchmark (ab)",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 223,
+        "end": 229,
+        "text": "SoapUI",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 230,
+        "end": 236,
+        "text": "VMware",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 237,
+        "end": 242,
+        "text": "qTest",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 243,
+        "end": 249,
+        "text": "ESLint",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 250,
+        "end": 259,
+        "text": "F5 BIG-IP",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 260,
+        "end": 275,
+        "text": "WORK EXPERIENCE",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 276,
+        "end": 301,
+        "text": "Software Quality Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 302,
+        "end": 322,
+        "text": "Electronic Arts (EA)",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 323,
+        "end": 337,
+        "text": "2022 - current",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 340,
+        "end": 356,
+        "text": "Redwood City, CA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 357,
+        "end": 467,
+        "text": "Executed 129 automated test cases with TestNG, expanding test coverage by 29% for EA's latest gaming platforms",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 469,
+        "end": 598,
+        "text": "Maintained 58 SOAP and REST API tests using SoapUI, decreasing backend bugs and ensuring high reliability in multiplayer features",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 600,
+        "end": 730,
+        "text": "Improved code quality by integrating ESLint into the development workflow, reducing coding errors by 12% in multiple game projects",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 732,
+        "end": 860,
+        "text": "Contributed to upgrading continuous delivery processes, achieving a 3-week faster release cycle for 7 game updates with CircleCI",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 862,
+        "end": 895,
+        "text": "Software Developer in Test (SDET)",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 896,
+        "end": 905,
+        "text": "Microsoft",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 906,
+        "end": 917,
+        "text": "2020 - 2022",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 920,
+        "end": 933,
+        "text": "Sunnyvale, CA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 934,
+        "end": 1078,
+        "text": "Developed 85+ automated test cases in TestRail, eliminating 6 manual testing tasks and expediting release cycles for 2 Microsoft Office products",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1080,
+        "end": 1184,
+        "text": "Designed automated scripts to enforce coding standards, lowering reported code integration issues by 14%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1187,
+        "end": 1373,
+        "text": "Tested the backend using Apache Benchmark, simulating heavy loads of up to 391K+ simultaneous users to ensure ease of use in Microsoft's cloud services under high-volume usage conditions",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1375,
+        "end": 1522,
+        "text": "Initiated a team training program on using Perforce effectively, allowing developers to cut down merge conflict incidents by 27% within one quarter",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1524,
+        "end": 1541,
+        "text": "Automation Tester",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1542,
+        "end": 1550,
+        "text": "LinkedIn",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 1551,
+        "end": 1562,
+        "text": "2018 - 2020",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1565,
+        "end": 1578,
+        "text": "Sunnyvale, CA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 1579,
+        "end": 1707,
+        "text": "Implemented 53 automation test scripts with VMware, enhancing system reliability via quick identification and resolution of bugs",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1709,
+        "end": 1845,
+        "text": "Trained a team of 5 junior testers in following the best automation practices, helping them complete 2 more automation tasks every month",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1847,
+        "end": 1971,
+        "text": "Wrote comprehensive test documentation and tutorials for qTest within LinkedIn which was later adopted by 97% of other teams",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1973,
+        "end": 2094,
+        "text": "Held detailed performance testing sessions on F5 BIG-IP tools, discovering 9 bottlenecks that hindered system performance",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 2122,
+        "end": 2133,
+        "text": "VICTOR REED",
+        "labels": [
+          "NAME"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2025-04-02T15:18:32.988627Z",
+    "updated_at": "2025-04-02T15:18:32.988640Z",
+    "lead_time": 295.674
+  },
+  {
+    "text": "Wendy Bailey Amazon Software Engineer w.bailey@email.com (123) 456-7890 Philadelphia, PA LinkedIn WORK EXPERIENCE Amazon - Amazon Software Engineer 2023 - current Philadelphia, PA Developed and deployed 9 microservices using Kubernetes on AWS, increasing monthly email- based user satisfaction ratings by 7%. Automated regression and functional testing on Selenium, reducing manual testing by 6 hours. Released 2 new features for Amazon Prime, growing user subscriptions by 18% within three months. Created custom Python scripts to automate infrastructure management tasks, saving 7 hours hours each week. Duolingo - Software Developer 2020 - 2023 Pittsburgh, PA Led a team on IntelliJ IDEA to build 6 interactive language learning features that boosted monthly user engagement by 21%. Introduced Angular-based authentication features for the sign-up process, lowering monthly user dropout rates by 24%. Collaborated with 3 developers to review source codes on SVN, preventing code conflicts. Held pre-deployment checks with Travis CI, ensuring smooth updates while slashing post-release hotfixes by 37%. BNY Mellon - Junior Software Developer 2017 - 2020 Pittsburgh, PA Assisted in designing a PostgreSQL database schema that cut down data retrieval speeds by 9 minutes. Oversaw complex SQL queries and routines for transaction processing, raising the system's throughput by 29%. Used Trello to organize project tasks, improving the team's on-time project submissions by 48%. Contributed to developing a PostgreSQL-based fraud detection system, decreasing annual fraudulent transactions by 9%. EDUCATION Carnegie Mellon University - Bachelor of Science, Computer Science 2013 - 2017 Pittsburgh, PA SKILLS Python; Subversion (SVN); IntelliJ IDEA; PostgreSQL; Amazon Web Services (AWS); Kubernetes; Travis CI; Angular; Selenium; Trello",
+    "id": 61,
+    "label": [
+      {
+        "start": 0,
+        "end": 12,
+        "text": "Wendy Bailey",
+        "labels": [
+          "NAME"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 56,
+        "text": "w.bailey@email.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 71,
+        "text": "(123) 456-7890",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 113,
+        "text": "WORK EXPERIENCE",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 114,
+        "end": 120,
+        "text": "Amazon",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 123,
+        "end": 147,
+        "text": "Amazon Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 148,
+        "end": 162,
+        "text": "2023 - current",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 163,
+        "end": 179,
+        "text": "Philadelphia, PA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 180,
+        "end": 307,
+        "text": "Developed and deployed 9 microservices using Kubernetes on AWS, increasing monthly email- based user satisfaction ratings by 7%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 309,
+        "end": 400,
+        "text": "Automated regression and functional testing on Selenium, reducing manual testing by 6 hours",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 402,
+        "end": 497,
+        "text": "Released 2 new features for Amazon Prime, growing user subscriptions by 18% within three months",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 499,
+        "end": 604,
+        "text": "Created custom Python scripts to automate infrastructure management tasks, saving 7 hours hours each week",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 617,
+        "end": 635,
+        "text": "Software Developer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 606,
+        "end": 614,
+        "text": "Duolingo",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 636,
+        "end": 647,
+        "text": "2020 - 2023",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 648,
+        "end": 662,
+        "text": "Pittsburgh, PA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 663,
+        "end": 784,
+        "text": "Led a team on IntelliJ IDEA to build 6 interactive language learning features that boosted monthly user engagement by 21%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 786,
+        "end": 902,
+        "text": "Introduced Angular-based authentication features for the sign-up process, lowering monthly user dropout rates by 24%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 904,
+        "end": 991,
+        "text": "Collaborated with 3 developers to review source codes on SVN, preventing code conflicts",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 993,
+        "end": 1103,
+        "text": "Held pre-deployment checks with Travis CI, ensuring smooth updates while slashing post-release hotfixes by 37%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1105,
+        "end": 1115,
+        "text": "BNY Mellon",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 1118,
+        "end": 1143,
+        "text": "Junior Software Developer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1144,
+        "end": 1155,
+        "text": "2017 - 2020",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1156,
+        "end": 1170,
+        "text": "Pittsburgh, PA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 1171,
+        "end": 1270,
+        "text": "Assisted in designing a PostgreSQL database schema that cut down data retrieval speeds by 9 minutes",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1272,
+        "end": 1379,
+        "text": "Oversaw complex SQL queries and routines for transaction processing, raising the system's throughput by 29%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1381,
+        "end": 1475,
+        "text": "Used Trello to organize project tasks, improving the team's on-time project submissions by 48%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1477,
+        "end": 1593,
+        "text": "Contributed to developing a PostgreSQL-based fraud detection system, decreasing annual fraudulent transactions by 9%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1595,
+        "end": 1604,
+        "text": "EDUCATION",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1605,
+        "end": 1631,
+        "text": "Carnegie Mellon University",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 1634,
+        "end": 1653,
+        "text": "Bachelor of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 1655,
+        "end": 1671,
+        "text": "Computer Science",
+        "labels": [
+          "EDU_MAJOR"
+        ]
+      },
+      {
+        "start": 1699,
+        "end": 1705,
+        "text": "SKILLS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1706,
+        "end": 1712,
+        "text": "Python",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 1714,
+        "end": 1724,
+        "text": "Subversion",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 1726,
+        "end": 1729,
+        "text": "SVN",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 1732,
+        "end": 1745,
+        "text": "IntelliJ IDEA",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 1747,
+        "end": 1757,
+        "text": "PostgreSQL",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 1759,
+        "end": 1778,
+        "text": "Amazon Web Services",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 1780,
+        "end": 1783,
+        "text": "AWS",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 1786,
+        "end": 1796,
+        "text": "Kubernetes",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 1798,
+        "end": 1807,
+        "text": "Travis CI",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 1809,
+        "end": 1816,
+        "text": "Angular",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 1818,
+        "end": 1826,
+        "text": "Selenium",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 1828,
+        "end": 1834,
+        "text": "Trello",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2025-04-02T15:22:02.636489Z",
+    "updated_at": "2025-04-02T15:22:02.636503Z",
+    "lead_time": 204.762
+  },
+  {
+    "text": "XAVIER RIVERA Front End Software Engineer x.rivera@email.com (123) 456-7890 San Francisco, CA LinkedIn WORK EXPERIENCE Front End Software Engineer Asana 2021 - current San Francisco, CA Created responsive web designs using HTML5, reducing Asana's main website load time by 1.2 seconds. Optimized front-end build processes with Webpack, achieving a 2- week decrease in build time, leading to faster deployment cycles. Automated front-end testing with the help of Jest, growing average unit test coverage from 89% to 95%. Collaborated on the migration of legacy code to modern JavaScript frameworks, transitioning 172K+ lines of code to React.js. IT Support Specialist Slack 2018 - 2021 San Francisco, CA Assisted in redesigning Slack's landing pages on Bootstrap, increasing mobile user engagement rates by 26% within two months. Developed a custom Gulp plugin to automate digital asset optimization, directly improving the main website's annual SEO rankings. Integrated Sass functions into the development workflow, enabling concise styling features that helped developers use variables and complete front-end code 2 days quicker. Conducted A\/B testing on multiple front-end designs, which helped the team find an 8% rise in positive feedback for the tested features as per feedback emails. Technical Support Specialist Dropbox 2017 - 2018 San Francisco, CA Maintained 39 batch scripts using Git to automate routine backup and sync tasks, allowing senior engineers to complete 4 more tasks every day. Authored a detailed npm package guideline document, cutting down compatibility issues across 2 development environments. Used automated error tracking and resolution processes, lowering annual reported downtime incidents by 11%. Held 14 tech talks on the effective use of Visual Studio Code, helping interns learn how to enhance their overall code quality. EDUCATION Bachelor of Science Computer Science Stanford University 2013 - 2017 Stanford, CA SKILLS HTML5 React.js Git Sass Webpack npm (Node Package Manager) Visual Studio Code Jest Gulp Bootstrap",
+    "id": 62,
+    "label": [
+      {
+        "start": 0,
+        "end": 13,
+        "text": "XAVIER RIVERA",
+        "labels": [
+          "NAME"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 60,
+        "text": "x.rivera@email.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 75,
+        "text": "(123) 456-7890",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 118,
+        "text": "WORK EXPERIENCE",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 146,
+        "text": "Front End Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 147,
+        "end": 152,
+        "text": "Asana",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 153,
+        "end": 167,
+        "text": "2021 - current",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 168,
+        "end": 185,
+        "text": "San Francisco, CA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 186,
+        "end": 284,
+        "text": "Created responsive web designs using HTML5, reducing Asana's main website load time by 1.2 seconds",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 286,
+        "end": 415,
+        "text": "Optimized front-end build processes with Webpack, achieving a 2- week decrease in build time, leading to faster deployment cycles",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 417,
+        "end": 518,
+        "text": "Automated front-end testing with the help of Jest, growing average unit test coverage from 89% to 95%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 520,
+        "end": 643,
+        "text": "Collaborated on the migration of legacy code to modern JavaScript frameworks, transitioning 172K+ lines of code to React.js",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 645,
+        "end": 666,
+        "text": "IT Support Specialist",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 667,
+        "end": 672,
+        "text": "Slack",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 673,
+        "end": 684,
+        "text": "2018 - 2021",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 685,
+        "end": 702,
+        "text": "San Francisco, CA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 703,
+        "end": 827,
+        "text": "Assisted in redesigning Slack's landing pages on Bootstrap, increasing mobile user engagement rates by 26% within two months",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 829,
+        "end": 957,
+        "text": "Developed a custom Gulp plugin to automate digital asset optimization, directly improving the main website's annual SEO rankings",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 959,
+        "end": 1129,
+        "text": "Integrated Sass functions into the development workflow, enabling concise styling features that helped developers use variables and complete front-end code 2 days quicker",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1131,
+        "end": 1289,
+        "text": "Conducted A\/B testing on multiple front-end designs, which helped the team find an 8% rise in positive feedback for the tested features as per feedback emails",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1291,
+        "end": 1319,
+        "text": "Technical Support Specialist",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1320,
+        "end": 1327,
+        "text": "Dropbox",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 1328,
+        "end": 1339,
+        "text": "2017 - 2018",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1340,
+        "end": 1357,
+        "text": "San Francisco, CA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 1358,
+        "end": 1499,
+        "text": "Maintained 39 batch scripts using Git to automate routine backup and sync tasks, allowing senior engineers to complete 4 more tasks every day",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1501,
+        "end": 1620,
+        "text": "Authored a detailed npm package guideline document, cutting down compatibility issues across 2 development environments",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1622,
+        "end": 1728,
+        "text": "Used automated error tracking and resolution processes, lowering annual reported downtime incidents by 11%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1730,
+        "end": 1856,
+        "text": "Held 14 tech talks on the effective use of Visual Studio Code, helping interns learn how to enhance their overall code quality",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1858,
+        "end": 1867,
+        "text": "EDUCATION",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1868,
+        "end": 1887,
+        "text": "Bachelor of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 1888,
+        "end": 1904,
+        "text": "Computer Science",
+        "labels": [
+          "EDU_MAJOR"
+        ]
+      },
+      {
+        "start": 1905,
+        "end": 1924,
+        "text": "Stanford University",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 1950,
+        "end": 1956,
+        "text": "SKILLS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1957,
+        "end": 1962,
+        "text": "HTML5",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 1963,
+        "end": 1971,
+        "text": "React.js",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 1972,
+        "end": 1975,
+        "text": "Git",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 1976,
+        "end": 1980,
+        "text": "Sass",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 1981,
+        "end": 1988,
+        "text": "Webpack",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 1989,
+        "end": 1992,
+        "text": "npm",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 1994,
+        "end": 2014,
+        "text": "Node Package Manager",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2016,
+        "end": 2034,
+        "text": "Visual Studio Code",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2035,
+        "end": 2039,
+        "text": "Jest",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2040,
+        "end": 2044,
+        "text": "Gulp",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2045,
+        "end": 2054,
+        "text": "Bootstrap",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2025-04-02T17:19:31.412490Z",
+    "updated_at": "2025-04-02T17:19:31.412501Z",
+    "lead_time": 235.961
+  },
+  {
+    "text": "YVONNE GREEN Java Software Engineer y.green@email.com (123) 456-7890 Boston, MA LinkedIn EDUCATION Bachelor of Science Computer Science and Engineering Massachusetts Institute of Technology 2013 - 2017 Cambridge, MA SKILLS Java Git Visual Studio Code MySQL AWS Docker Jenkins React JUnit Jira WORK EXPERIENCE Java Software Engineer DraftKings 2022 - current Boston, MA Optimized existing Java-based landing pages, lowering load time by 46 ms while supporting 38K+ real-time users simultaneously. Executed JUnit tests for new website functionalities, achieving an 83% pass rate on the first deployment. Enhanced the main server's security using AWS security tools, resulting in a 12% decrease in potential security breaches. Developed 2 REST APIs, successfully integrating with front- end systems and enabling seamless data flow across the company's app and website. Full-Stack Developer Akamai Technologies 2019 - 2022 Cambridge, MA Worked with 4 colleagues to optimize cloud-based applications for 8 clients with the help of Docker, improving their system's response rate by 27%. Automated build and test sequences on Jenkins, reducing time spent on weekly manual tasks by 5.6 hours. Refined code quality across all projects by implementing and enforcing 2 style guides in Visual Studio Code. Created an error logging and alerting system using React, slashing downtime instances by 17% with quick critical failure identification. Junior Software Developer HubSpot 2017 - 2019 Cambridge, MA Assisted senior developers to maintain 6 MySQL databases, optimizing query performance by up to 22% which boosted the responsiveness of client-facing applications. Contributed to fixing 11 bugs every month in HubSpot's SaaS platform, supporting high system stability. Managed 75+ weekly tickets in Jira, achieving an average resolution time of less than 19 hours, meeting all the team's service level agreement (SLA) conditions. Regularly helped in code merges and deployment on Git, securing a deployment success rate of 92% throughout tenure.",
+    "id": 63,
+    "label": [
+      {
+        "start": 0,
+        "end": 12,
+        "text": "YVONNE GREEN",
+        "labels": [
+          "NAME"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 53,
+        "text": "y.green@email.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 68,
+        "text": "(123) 456-7890",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 98,
+        "text": "EDUCATION",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 118,
+        "text": "Bachelor of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 151,
+        "text": "Computer Science and Engineering",
+        "labels": [
+          "EDU_MAJOR"
+        ]
+      },
+      {
+        "start": 152,
+        "end": 189,
+        "text": "Massachusetts Institute of Technology",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 216,
+        "end": 222,
+        "text": "SKILLS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 223,
+        "end": 227,
+        "text": "Java",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 228,
+        "end": 231,
+        "text": "Git",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 232,
+        "end": 250,
+        "text": "Visual Studio Code",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 251,
+        "end": 256,
+        "text": "MySQL",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 257,
+        "end": 260,
+        "text": "AWS",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 261,
+        "end": 267,
+        "text": "Docker",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 268,
+        "end": 275,
+        "text": "Jenkins",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 276,
+        "end": 281,
+        "text": "React",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 282,
+        "end": 287,
+        "text": "JUnit",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 288,
+        "end": 292,
+        "text": "Jira",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 293,
+        "end": 308,
+        "text": "WORK EXPERIENCE",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 309,
+        "end": 331,
+        "text": "Java Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 332,
+        "end": 342,
+        "text": "DraftKings",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 343,
+        "end": 357,
+        "text": "2022 - current",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 358,
+        "end": 368,
+        "text": "Boston, MA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 369,
+        "end": 494,
+        "text": "Optimized existing Java-based landing pages, lowering load time by 46 ms while supporting 38K+ real-time users simultaneously",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 496,
+        "end": 600,
+        "text": "Executed JUnit tests for new website functionalities, achieving an 83% pass rate on the first deployment",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 602,
+        "end": 722,
+        "text": "Enhanced the main server's security using AWS security tools, resulting in a 12% decrease in potential security breaches",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 724,
+        "end": 864,
+        "text": "Developed 2 REST APIs, successfully integrating with front- end systems and enabling seamless data flow across the company's app and website",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 866,
+        "end": 886,
+        "text": "Full-Stack Developer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 887,
+        "end": 906,
+        "text": "Akamai Technologies",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 907,
+        "end": 918,
+        "text": "2019 - 2022",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 919,
+        "end": 932,
+        "text": "Cambridge, MA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 933,
+        "end": 1079,
+        "text": "Worked with 4 colleagues to optimize cloud-based applications for 8 clients with the help of Docker, improving their system's response rate by 27%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1081,
+        "end": 1183,
+        "text": "Automated build and test sequences on Jenkins, reducing time spent on weekly manual tasks by 5.6 hours",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1185,
+        "end": 1292,
+        "text": "Refined code quality across all projects by implementing and enforcing 2 style guides in Visual Studio Code",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1294,
+        "end": 1429,
+        "text": "Created an error logging and alerting system using React, slashing downtime instances by 17% with quick critical failure identification",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1431,
+        "end": 1456,
+        "text": "Junior Software Developer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1457,
+        "end": 1464,
+        "text": "HubSpot",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 1465,
+        "end": 1476,
+        "text": "2017 - 2019",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1477,
+        "end": 1490,
+        "text": "Cambridge, MA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 1491,
+        "end": 1653,
+        "text": "Assisted senior developers to maintain 6 MySQL databases, optimizing query performance by up to 22% which boosted the responsiveness of client-facing applications",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1655,
+        "end": 1757,
+        "text": "Contributed to fixing 11 bugs every month in HubSpot's SaaS platform, supporting high system stability",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1759,
+        "end": 1918,
+        "text": "Managed 75+ weekly tickets in Jira, achieving an average resolution time of less than 19 hours, meeting all the team's service level agreement (SLA) conditions",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1920,
+        "end": 2034,
+        "text": "Regularly helped in code merges and deployment on Git, securing a deployment success rate of 92% throughout tenure",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2025-04-02T17:22:59.966543Z",
+    "updated_at": "2025-04-02T17:22:59.966560Z",
+    "lead_time": 207.383
+  },
+  {
+    "text": "LEANDER HARTMAN Lead Software Engineer l.hartman@email.com (123) 456-7890 Philadelphia, PA LinkedIn WORK EXPERIENCE Lead Software Engineer Comcast 2020 - current Philadelphia, PA Led a team of 9 engineers to adopt Bitbucket for version control, lowering merge conflicts by 39%. Supervised two major version control migrations for a team of 78, making code collaboration 41% easier on average according to feedback. Held 4 internal workshops on cloud technologies and current regulatory practices, enhancing team knowledge. Integrated CircleCI for continuous integration\/continuous deployment (CI\/CD), which allowed the team to quicken release cycles by 27 hours. Software Engineer Appian 2018 - 2020 Philadelphia, PA Assisted in porting multiple applications to a cloud environment, reducing operational costs by $12,436 and maintaining a 98.9% uptime. Automated repetitive tasks using Python scripts, saving 209 manual work hours annually. Ran weekly performance testing sessions on critical software components, fixing major bugs that improved system throughput by 61%. Developed and deployed 17 serverless functions with Google Cloud Functions, resulting in 23-minute improvement in response times. Technical Support Engineer UPMC 2016 - 2018 Pittsburgh, PA Organized a hospital-wide training program on Zoom, remotely teaching 54 staff members about the use of a new system. Conducted performance testing using Apache JMeter to identify key bottlenecks that were making the patient record system slower by 31%. Used Wireshark for network analysis, successfully resolving 91% of network issues within the first 21 hours of reporting. Worked with the clinical team to visualize 112 patient flow processes using draw.io. EDUCATION Master of Science Software Engineering Carnegie Mellon University 2018 - 2020 Pittsburgh, PA Bachelor of Science Computer Science Carnegie Mellon University 2011 - 2015 Pittsburgh, PA SKILLS draw.io Microsoft Project Bitbucket Oracle Enterprise Manager Istio CircleCI Apache JMeter Wireshark Google Cloud Functions Zoom",
+    "id": 64,
+    "label": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "LEANDER HARTMAN",
+        "labels": [
+          "NAME"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 58,
+        "text": "l.hartman@email.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 73,
+        "text": "(123) 456-7890",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 115,
+        "text": "WORK EXPERIENCE",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 138,
+        "text": "Lead Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 146,
+        "text": "Comcast",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 147,
+        "end": 161,
+        "text": "2020 - current",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 162,
+        "end": 178,
+        "text": "Philadelphia, PA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 179,
+        "end": 276,
+        "text": "Led a team of 9 engineers to adopt Bitbucket for version control, lowering merge conflicts by 39%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 278,
+        "end": 413,
+        "text": "Supervised two major version control migrations for a team of 78, making code collaboration 41% easier on average according to feedback",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 415,
+        "end": 521,
+        "text": "Held 4 internal workshops on cloud technologies and current regulatory practices, enhancing team knowledge",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 523,
+        "end": 661,
+        "text": "Integrated CircleCI for continuous integration\/continuous deployment (CI\/CD), which allowed the team to quicken release cycles by 27 hours",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 663,
+        "end": 680,
+        "text": "Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 681,
+        "end": 687,
+        "text": "Appian",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 688,
+        "end": 699,
+        "text": "2018 - 2020",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 700,
+        "end": 716,
+        "text": "Philadelphia, PA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 717,
+        "end": 851,
+        "text": "Assisted in porting multiple applications to a cloud environment, reducing operational costs by $12,436 and maintaining a 98.9% uptime",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 853,
+        "end": 939,
+        "text": "Automated repetitive tasks using Python scripts, saving 209 manual work hours annually",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 941,
+        "end": 1070,
+        "text": "Ran weekly performance testing sessions on critical software components, fixing major bugs that improved system throughput by 61%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1072,
+        "end": 1200,
+        "text": "Developed and deployed 17 serverless functions with Google Cloud Functions, resulting in 23-minute improvement in response times",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1202,
+        "end": 1228,
+        "text": "Technical Support Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1229,
+        "end": 1233,
+        "text": "UPMC",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 1234,
+        "end": 1245,
+        "text": "2016 - 2018",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1246,
+        "end": 1260,
+        "text": "Pittsburgh, PA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 1261,
+        "end": 1377,
+        "text": "Organized a hospital-wide training program on Zoom, remotely teaching 54 staff members about the use of a new system",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1379,
+        "end": 1513,
+        "text": "Conducted performance testing using Apache JMeter to identify key bottlenecks that were making the patient record system slower by 31%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1515,
+        "end": 1635,
+        "text": "Used Wireshark for network analysis, successfully resolving 91% of network issues within the first 21 hours of reporting",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1637,
+        "end": 1720,
+        "text": "Worked with the clinical team to visualize 112 patient flow processes using draw.io",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1722,
+        "end": 1731,
+        "text": "EDUCATION",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1732,
+        "end": 1749,
+        "text": "Master of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 1750,
+        "end": 1770,
+        "text": "Software Engineering",
+        "labels": [
+          "EDU_MAJOR"
+        ]
+      },
+      {
+        "start": 1771,
+        "end": 1797,
+        "text": "Carnegie Mellon University",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 1825,
+        "end": 1844,
+        "text": "Bachelor of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 1845,
+        "end": 1861,
+        "text": "Computer Science",
+        "labels": [
+          "EDU_MAJOR"
+        ]
+      },
+      {
+        "start": 1862,
+        "end": 1888,
+        "text": "Carnegie Mellon University",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 1916,
+        "end": 1922,
+        "text": "SKILLS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1923,
+        "end": 1930,
+        "text": "draw.io",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 1931,
+        "end": 1948,
+        "text": "Microsoft Project",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 1949,
+        "end": 1958,
+        "text": "Bitbucket",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 1959,
+        "end": 1984,
+        "text": "Oracle Enterprise Manager",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 1985,
+        "end": 1990,
+        "text": "Istio",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 1991,
+        "end": 1999,
+        "text": "CircleCI",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 2000,
+        "end": 2013,
+        "text": "Apache JMeter",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2014,
+        "end": 2023,
+        "text": "Wireshark",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2024,
+        "end": 2046,
+        "text": "Google Cloud Functions",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 2047,
+        "end": 2051,
+        "text": "Zoom",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2025-04-02T17:29:13.553797Z",
+    "updated_at": "2025-04-02T17:29:13.553812Z",
+    "lead_time": 372.189
+  },
+  {
+    "text": "KIAN WOODS EXPERIENCED SOFTWARE ENGINEER CONTACT kianwoods@email.com (123) 456-7890 Pittsburgh, PA LinkedIn EDUCATION Bachelor of Science Computer Science Carnegie Mellon University 2013 - 2017 Pittsburgh, PA SKILLS PyCharm Mercurial Ruby on Rails Microsoft SQL Server Google Cloud Platform PHPUnit OpenShift CircleCI C++ PyTorch CERTIFICATIONS Certified Software Development Associate (IEEE) WORK EXPERIENCE Software Engineer Duolingo August 2020 - current \/ Pittsburgh, PA Optimized machine learning algorithms with a C++ library for a 38% boost to the efficiency of language learning models. Employed PyTorch to develop and improve the AI-driven language pronunciation feedback system. Used PyCharm as the primary IDE to increase development efficiency for a 27% reduction in bug-fixing time. Worked with data science team to integrate machine learning algorithms to improved language model accuracy. DevOps Engineer PNC Financial Services June 2017 - June 2020 \/ Pittsburgh, PA Streamlined deployment process by implementing CircleCI, reducing build times by 34% and increasing deployment frequency by 61%. Led a team to migrate the company's database from MySQL to Microsoft SQL and to decrease query times by 21%. Developed custom Mercurial hooks to enforce coding standards, reducing code review time by 13%. Improved software release pipeline security by automating vulnerability scanning and patching. Software Developer Intern Vanguard 2016 - 2017 \/ Remote Assisted in refactoring C++ code, helping to cut maintenance by 14% and improving app performance. Conducted code reviews under 2 senior developers. Helped migrate applications to AWS and Azure, which cut infrastructure costs by 12% and aided application availability. Built a custom notification system with JavaScript and WebSocket, increasing user engagement by 23% and improving real-time communication capabilities.",
+    "id": 65,
+    "label": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "KIAN WOODS",
+        "labels": [
+          "NAME"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "text": "CONTACT",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 68,
+        "text": "kianwoods@email.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 83,
+        "text": "(123) 456-7890",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 117,
+        "text": "EDUCATION",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 118,
+        "end": 137,
+        "text": "Bachelor of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 138,
+        "end": 154,
+        "text": "Computer Science",
+        "labels": [
+          "EDU_MAJOR"
+        ]
+      },
+      {
+        "start": 155,
+        "end": 181,
+        "text": "Carnegie Mellon University",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      },
+      {
+        "start": 209,
+        "end": 215,
+        "text": "SKILLS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 216,
+        "end": 223,
+        "text": "PyCharm",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 224,
+        "end": 233,
+        "text": "Mercurial",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 234,
+        "end": 247,
+        "text": "Ruby on Rails",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 248,
+        "end": 268,
+        "text": "Microsoft SQL Server",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 269,
+        "end": 290,
+        "text": "Google Cloud Platform",
+        "labels": [
+          "DEV_TOOL"
+        ]
+      },
+      {
+        "start": 291,
+        "end": 298,
+        "text": "PHPUnit",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 299,
+        "end": 308,
+        "text": "OpenShift",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 309,
+        "end": 317,
+        "text": "CircleCI",
+        "labels": [
+          "DEVOPS"
+        ]
+      },
+      {
+        "start": 318,
+        "end": 321,
+        "text": "C++",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 322,
+        "end": 329,
+        "text": "PyTorch",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 330,
+        "end": 344,
+        "text": "CERTIFICATIONS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 393,
+        "end": 408,
+        "text": "WORK EXPERIENCE",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 409,
+        "end": 426,
+        "text": "Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 427,
+        "end": 435,
+        "text": "Duolingo",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 436,
+        "end": 457,
+        "text": "August 2020 - current",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 460,
+        "end": 474,
+        "text": "Pittsburgh, PA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 475,
+        "end": 593,
+        "text": "Optimized machine learning algorithms with a C++ library for a 38% boost to the efficiency of language learning models",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 595,
+        "end": 687,
+        "text": "Employed PyTorch to develop and improve the AI-driven language pronunciation feedback system",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 689,
+        "end": 794,
+        "text": "Used PyCharm as the primary IDE to increase development efficiency for a 27% reduction in bug-fixing time",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 796,
+        "end": 902,
+        "text": "Worked with data science team to integrate machine learning algorithms to improved language model accuracy",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 920,
+        "end": 942,
+        "text": "PNC Financial Services",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 904,
+        "end": 919,
+        "text": "DevOps Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 943,
+        "end": 964,
+        "text": "June 2017 - June 2020",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 967,
+        "end": 981,
+        "text": "Pittsburgh, PA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 982,
+        "end": 1109,
+        "text": "Streamlined deployment process by implementing CircleCI, reducing build times by 34% and increasing deployment frequency by 61%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1111,
+        "end": 1218,
+        "text": "Led a team to migrate the company's database from MySQL to Microsoft SQL and to decrease query times by 21%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1220,
+        "end": 1314,
+        "text": "Developed custom Mercurial hooks to enforce coding standards, reducing code review time by 13%",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1316,
+        "end": 1409,
+        "text": "Improved software release pipeline security by automating vulnerability scanning and patching",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1437,
+        "end": 1445,
+        "text": "Vanguard",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 1411,
+        "end": 1436,
+        "text": "Software Developer Intern",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 1446,
+        "end": 1457,
+        "text": "2016 - 2017",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 1460,
+        "end": 1466,
+        "text": "Remote",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 1467,
+        "end": 1564,
+        "text": "Assisted in refactoring C++ code, helping to cut maintenance by 14% and improving app performance",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1566,
+        "end": 1614,
+        "text": "Conducted code reviews under 2 senior developers",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1616,
+        "end": 1734,
+        "text": "Helped migrate applications to AWS and Azure, which cut infrastructure costs by 12% and aided application availability",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1736,
+        "end": 1886,
+        "text": "Built a custom notification system with JavaScript and WebSocket, increasing user engagement by 23% and improving real-time communication capabilities",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2025-04-02T17:39:34.848569Z",
+    "updated_at": "2025-04-02T17:39:34.848581Z",
+    "lead_time": 215.126
+  },
+  {
+    "text": "Tamara Turbinado Associate Software Engineer Proven Associate Software Engineer with 4-year Computer Science degree and 1+ years of experience. As a dedicated problem solver, I display an expert skill in JavaScript and supporting languages\/libraries\/frameworks that solve real-world problems through code. Through my time at Boeing, I have gained further hands-on experience in industry-standard development, which I'm looking to apply to a growing business like Amazon. Tamar@email.com (123) 456-7890 San Jose, CA linkedin.com WORK EXPERIENCE Boeing Associate Software Engineer Mountain View, CA | July 2021 - current Developed, tested, debugged, and documented 33+ software applications Used established coding standards and methodologies and coached 2 junior engineers on best practices Worked within an agile scrum team, contributing to 100% continuous improvement and deployment (CICD) Designed and developed 26+ software applications based on user stories, requirements, and design specifications Documented software changes for use by 37+ engineers, quality assurance and documentation specialists PROJECTS Streamer Highlighter Designed mobile-first project to help 1,300+ users discover smaller streamers on the Twitch.tv platform, providing a user experience through advanced search integration with Twitch Developed 100% RESTful API to control user functions using Express.JS with MongoDB as a persistence layer while utilizing React on the frontend Created Mobile Responsive User Experience with CSS Grids that integrated with Twitch API data to allow users to see viewers and gameplay of the streamers Hospitality Highlighter Created an application to alert 8-person staff to needed service at tables Designed an easy-to-understand-and-use front-end, enabling customers and staff to alert and be alerted to requests Implemented Hospitality Highlighter with technology like Express and MongoDB to manage and pass requests from the JavaScript\/React front-end SKILLS HTML CSS Bootstrap SASS JavaScript React jQuery EDUCATION Bachelor of Science Computer Science San Jose State University 2017 - 2021 San Jose, CA",
+    "id": 67,
+    "label": [
+      {
+        "start": 0,
+        "end": 16,
+        "text": "Tamara Turbinado",
+        "labels": [
+          "NAME"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 469,
+        "text": "Proven Associate Software Engineer with 4-year Computer Science degree and 1+ years of experience. As a dedicated problem solver, I display an expert skill in JavaScript and supporting languages\/libraries\/frameworks that solve real-world problems through code. Through my time at Boeing, I have gained further hands-on experience in industry-standard development, which I'm looking to apply to a growing business like Amazon",
+        "labels": [
+          "OVERVIEW"
+        ]
+      },
+      {
+        "start": 471,
+        "end": 486,
+        "text": "Tamar@email.com",
+        "labels": [
+          "CONTACT_EMAIL"
+        ]
+      },
+      {
+        "start": 487,
+        "end": 501,
+        "text": "(123) 456-7890",
+        "labels": [
+          "CONTACT_PHONE"
+        ]
+      },
+      {
+        "start": 528,
+        "end": 543,
+        "text": "WORK EXPERIENCE",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 544,
+        "end": 550,
+        "text": "Boeing",
+        "labels": [
+          "JOB_COMPANY"
+        ]
+      },
+      {
+        "start": 551,
+        "end": 578,
+        "text": "Associate Software Engineer",
+        "labels": [
+          "JOB_TITLE"
+        ]
+      },
+      {
+        "start": 579,
+        "end": 596,
+        "text": "Mountain View, CA",
+        "labels": [
+          "JOB_LOCATION"
+        ]
+      },
+      {
+        "start": 599,
+        "end": 618,
+        "text": "July 2021 - current",
+        "labels": [
+          "JOB_DURATION"
+        ]
+      },
+      {
+        "start": 619,
+        "end": 789,
+        "text": "Developed, tested, debugged, and documented 33+ software applications Used established coding standards and methodologies and coached 2 junior engineers on best practices",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 790,
+        "end": 890,
+        "text": "Worked within an agile scrum team, contributing to 100% continuous improvement and deployment (CICD)",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 891,
+        "end": 1002,
+        "text": "Designed and developed 26+ software applications based on user stories, requirements, and design specifications",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1003,
+        "end": 1105,
+        "text": "Documented software changes for use by 37+ engineers, quality assurance and documentation specialists ",
+        "labels": [
+          "JOB_DESC_ITEM"
+        ]
+      },
+      {
+        "start": 1105,
+        "end": 1113,
+        "text": "PROJECTS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1375,
+        "end": 1385,
+        "text": "Express.JS",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 1391,
+        "end": 1398,
+        "text": "MongoDB",
+        "labels": [
+          "DATABASE"
+        ]
+      },
+      {
+        "start": 1438,
+        "end": 1443,
+        "text": "React",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 1969,
+        "end": 1975,
+        "text": "SKILLS",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 1976,
+        "end": 1980,
+        "text": "HTML",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 1981,
+        "end": 1984,
+        "text": "CSS",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 1985,
+        "end": 1994,
+        "text": "Bootstrap",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 1995,
+        "end": 1999,
+        "text": "SASS",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2000,
+        "end": 2010,
+        "text": "JavaScript",
+        "labels": [
+          "PROG_LANG"
+        ]
+      },
+      {
+        "start": 2011,
+        "end": 2016,
+        "text": "React",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2017,
+        "end": 2023,
+        "text": "jQuery",
+        "labels": [
+          "FRAMEWORK"
+        ]
+      },
+      {
+        "start": 2024,
+        "end": 2033,
+        "text": "EDUCATION",
+        "labels": [
+          "SECTION_LABEL"
+        ]
+      },
+      {
+        "start": 2034,
+        "end": 2053,
+        "text": "Bachelor of Science",
+        "labels": [
+          "EDU_DEG"
+        ]
+      },
+      {
+        "start": 2054,
+        "end": 2070,
+        "text": "Computer Science",
+        "labels": [
+          "EDU_MAJOR"
+        ]
+      },
+      {
+        "start": 2071,
+        "end": 2096,
+        "text": "San Jose State University",
+        "labels": [
+          "EDU_COLLEGE"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 45,
+    "created_at": "2025-04-02T18:01:59.807308Z",
+    "updated_at": "2025-04-02T18:01:59.807331Z",
+    "lead_time": 134.508
+  }
+]

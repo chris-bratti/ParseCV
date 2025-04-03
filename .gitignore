@@ -1,0 +1,4 @@
+**__pycache__
+**.venv
+**/resumes/**/*.pdf
+**/resumes/**/*.txt
