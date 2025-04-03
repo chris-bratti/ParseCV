@@ -2,3 +2,4 @@
 **.venv
 **/resumes/**/*.pdf
 **/resumes/**/*.txt
+**.env
