@@ -7,6 +7,7 @@ import os
 import unicodedata
 import argparse
 
+# Calls the Text Extractor API to extract text from the PDF
 def extract_text(pdf_path: str):
     with open(pdf_path, "rb") as file:
         files = {"file": (pdf_path, file, "application/pdf")}
@@ -40,6 +41,7 @@ def clean_text(text):
         normalized = normalized.replace(char, replacement)
     return re.sub(r"\s+", " ", normalized).strip()
 
+# Converts the label studio JSON to the SpaCy format
 def convert_labelstudio_to_spacy(labelstudio_json):
     spacy_data = []
     trailing_regex = r"[\s.]"
@@ -70,6 +72,7 @@ def convert_labelstudio_to_spacy(labelstudio_json):
 
     return spacy_data
 
+# Verifies generated training data is properly aligned
 def verify_test_data(TRAIN_DATA):
     nlp = spacy.blank("en")
     data_pass = True
@@ -79,12 +82,13 @@ def verify_test_data(TRAIN_DATA):
         biluo_tags = offsets_to_biluo_tags(doc, annotations["entities"])
 
         if '-' in biluo_tags:
-            print("\n🚨 Misaligned Entity Found:")
+            print("\nERROR: Misaligned Entity Found:")
             print("TEXT:", text[:20])
             data_pass = False
 
     return data_pass
 
+# Extracts text from PDFs in the input folder and saves them to the output folder
 def parse_resumes():
     input_dir = "resumes/input"
     output_dir = "resumes/output"
@@ -94,10 +98,10 @@ def parse_resumes():
             pdf_text = clean_text(pdf_text)
             save_data(f"{output_dir}/{file.replace(".pdf", ".txt")}", pdf_text)
 
+# Generates and saves the training data
 def generate_test_data(label_studio_path: str):
     test_data_name = "full_resume_training_data.json"
 
-    # test_data_input/ls_resume_labels.json
     labelstudio_json = load_json(label_studio_path)
 
     output = convert_labelstudio_to_spacy(labelstudio_json)
@@ -111,13 +115,13 @@ def generate_test_data(label_studio_path: str):
 
 arg_parser = argparse.ArgumentParser(description='Script to automate generating test data')
 
-arg_parser.add_argument('command', type=str, help='Command [parse | generate]')
+arg_parser.add_argument('command', type=str, help='Command [extract | generate]')
 arg_parser.add_argument('label_studio_input', type=str, nargs='?', help='Path to Label Studio data')
 
 args = arg_parser.parse_args()
 
 match args.command:
-    case "parse":
+    case "extract":
         parse_resumes()
     case "generate":
         label_studio_input = args.label_studio_input

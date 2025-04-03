@@ -9,7 +9,7 @@ def load_json(file_path: str):
         data = json.load(f)
     return (data)
 
-
+# Trains the NER model using the provided training data
 def train_ner_model(data, iterations):
     TRAIN_DATA = data
     nlp = spacy.blank("en")
@@ -47,10 +47,10 @@ arg_parser.add_argument('training_data_path', type=str, help='Path to training d
 
 args = arg_parser.parse_args()
 
-# training_data/mini_resume_test_data.json
+if args.training_data_path is None:
+    raise Exception("Path to training data required!")
+
 TRAIN_DATA = load_json(args.training_data_path)
 
 nlp = train_ner_model(TRAIN_DATA, 60)
 nlp.to_disk("resume_ner_model")
-
-train_ner_model()
