@@ -1,7 +1,8 @@
-from typing import Optional
-from spacy.tokens import Span
+from typing import List, Optional
+
 from pydantic import BaseModel
-from typing import Optional, List
+from spacy.tokens import Span
+
 
 class Experience(BaseModel):
     company: Optional[str] = None
@@ -9,7 +10,7 @@ class Experience(BaseModel):
     duration: Optional[str] = None
     location: Optional[str] = None
     desc: Optional[List[str]] = None
-    
+
     def process_label(self, ent: Span):
         match ent.label_:
             case "JOB_COMPANY":
@@ -30,7 +31,7 @@ class Experience(BaseModel):
             case "JOB_DESC_ITEM":
                 if self.desc is None:
                     self.desc = []
-                
+
                 self.desc.append(ent.text)
             case "JOB_LOCATION":
                 if self.location is None:
@@ -38,6 +39,7 @@ class Experience(BaseModel):
                 else:
                     return False
         return True
+
 
 class Education(BaseModel):
     college: Optional[str] = None
@@ -61,16 +63,17 @@ class Education(BaseModel):
                     self.major = ent.text
                 else:
                     return False
-        
+
         return True
+
 
 class Skills(BaseModel):
     languages: Optional[list[str]] = None
     frameworks: Optional[list[str]] = None
     devops: Optional[list[str]] = None
     database: Optional[list[str]] = None
-    dev_tools: Optional[list[str]] = None    
-    
+    dev_tools: Optional[list[str]] = None
+
     def process_label(self, ent: Span):
         match ent.label_:
             case "PROG_LANG":
@@ -79,25 +82,26 @@ class Skills(BaseModel):
 
                 self.languages.append(ent.text)
             case "FRAMEWORK":
-                    if self.frameworks is None:
-                        self.frameworks = []
+                if self.frameworks is None:
+                    self.frameworks = []
 
-                    self.frameworks.append(ent.text)
+                self.frameworks.append(ent.text)
             case "DEVOPS":
-                    if self.devops is None:
-                        self.devops = []
+                if self.devops is None:
+                    self.devops = []
 
-                    self.devops.append(ent.text)
+                self.devops.append(ent.text)
             case "DATABASE":
-                    if self.database is None:
-                        self.database = []
+                if self.database is None:
+                    self.database = []
 
-                    self.database.append(ent.text)
+                self.database.append(ent.text)
             case "DEV_TOOL":
-                    if self.dev_tools is None:
-                        self.dev_tools = []
+                if self.dev_tools is None:
+                    self.dev_tools = []
 
-                    self.dev_tools.append(ent.text)
+                self.dev_tools.append(ent.text)
+
 
 class Applicant(BaseModel):
     name: Optional[str] = None
@@ -121,6 +125,7 @@ class Applicant(BaseModel):
                 self.linkedin = ent.text
             case "WEBSITE":
                 self.website = ent.text
+
 
 class Resume(BaseModel):
     info: Applicant

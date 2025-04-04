@@ -1,5 +1,6 @@
-import spacy
 from pathlib import Path
+
+import spacy
 from app.logging_config import logger
 
 MODEL_PATH = Path(__file__).parent / "resume_ner_model"

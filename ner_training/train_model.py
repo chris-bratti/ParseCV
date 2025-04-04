@@ -1,13 +1,16 @@
+import argparse
+import json
+import random
+
 import spacy
 from spacy.training import Example
-import random
-import json
-import argparse
+
 
 def load_json(file_path: str):
     with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
-    return (data)
+    return data
+
 
 # Trains the NER model using the provided training data
 def train_ner_model(data, iterations):
@@ -41,9 +44,9 @@ def train_ner_model(data, iterations):
     return nlp
 
 
-arg_parser = argparse.ArgumentParser(description='Script to train ner model')
+arg_parser = argparse.ArgumentParser(description="Script to train ner model")
 
-arg_parser.add_argument('training_data_path', type=str, help='Path to training data')
+arg_parser.add_argument("training_data_path", type=str, help="Path to training data")
 
 args = arg_parser.parse_args()
 
