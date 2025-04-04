@@ -123,7 +123,10 @@ Example response:
 }
 ```
 
-## Training NER model
+## NER Model
 The NER model is located in `parsecv/app/ner_model/resume_ner_model`
+
+I'm still actively training this model, so the parsing results may vary depending on the resume's content and formatting. It currently handles the job experience sections pretty well, but has some problems identifying 
+personal info (name, email, etc) and company names. This should improve with time as the model gets more training.
 
 If you would like to retrain the model, use the resources in the `ner_training` module. You'll need the `TextExtractor` API running to create the SpaCy test data.
