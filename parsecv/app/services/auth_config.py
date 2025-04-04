@@ -6,5 +6,5 @@ load_dotenv()
 
 ph = PasswordHasher()
 
-# Load in hashed password
+# Load in hashed apiKey
 hashed_password = ph.hash(os.getenv("API_KEY"))

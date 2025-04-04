@@ -9,7 +9,7 @@ health_router = APIRouter()
 
 
 @health_router.get("/status")
-def api_healthcheck():
+async def api_healthcheck():
     if healthcheck():
         return {"status": "up", "services": {"Extractor": "up"}}
     logger.error("App is unhealthy")
