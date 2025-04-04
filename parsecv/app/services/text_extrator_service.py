@@ -8,7 +8,11 @@ from typing import BinaryIO
 
 from app.logging_config import logger
 
-EXTRACTOR_URL = os.getenv("TEXT_API_URL", "http://localhost:8081")
+from dotenv import load_dotenv
+
+load_dotenv()
+
+EXTRACTOR_URL = os.getenv("EXTRACTOR_URL", "http://localhost:8081")
 
 # Checks health endpoint of Extractor service
 def healthcheck():
