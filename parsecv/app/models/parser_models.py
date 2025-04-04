@@ -58,7 +58,7 @@ class Education(BaseModel):
                     return False
             case "EDU_MAJOR":
                 if self.major is None:
-                    self.major - ent.text
+                    self.major = ent.text
                 else:
                     return False
         
