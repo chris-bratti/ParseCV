@@ -4,7 +4,7 @@ A FastAPI-powered resume parsing service using a custom-trained SpaCy NER model 
 
 ## Text Extractor service
 
-This API requires the `TextExtractor` backend service.
+This API requires the [TextExtractor](https://github.com/chris-bratti/text-extractor) backend service.
 
 One of the most important parts of the resume parsing process is a library for accurately extracting text from a PDF. Unfortunately, none of the Python libraries I tried were able to consistently handle the formatting
 that is typically seen in resumes. I decided to try an option outside of Python, and Apache PDFBox was able to give me the most consistent results. I decided to move the logic of text extraction to the `TextExtractor` 
