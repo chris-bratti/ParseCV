@@ -130,3 +130,7 @@ I'm still actively training this model, so the parsing results may vary dependin
 personal info (name, email, etc) and company names. This should improve with time as the model gets more training.
 
 If you would like to retrain the model, use the resources in the `ner_training` module. You'll need the `TextExtractor` API running to create the SpaCy test data.
+
+## Example client
+
+This API is currently being used by my [website](https://github.com/chris-bratti/chrisbratti-website) to populate the webpage with information from my resume. Check it out to see the API in action!
