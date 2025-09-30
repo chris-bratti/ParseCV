@@ -8,4 +8,4 @@ load_dotenv()
 ph = PasswordHasher()
 
 # Load in hashed apiKey
-hashed_password = ph.hash(os.getenv("API_KEY"))
+hashed_password = ph.hash(os.environ["API_KEY"])
