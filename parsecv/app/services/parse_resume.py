@@ -24,6 +24,15 @@ CHAR_REPLACEMENTS = {
     "\u0000": "",  # null
 }
 
+SKILL_LABELS = ["PROG_LANG", "FRAMEWORK", "DATABASE", "DEVOPS", "DEV_TOOL"]
+APPLICANT_LABLES = [
+    "CONTACT_EMAIL",
+    "CONTACT_PHONE",
+    "GITHUB",
+    "LINKEDIN",
+    "WEBSITE",
+]
+
 
 def clean_text(text):
     normalized = unicodedata.normalize("NFKC", text)
@@ -41,7 +50,7 @@ def parse_resume(file: BinaryIO):
         logger.error(f"Error calling text extractor: {extractor_response.json()}")
         raise ParsingException(
             status=500,
-            detail="There was an error calling the backend text extractor service",
+            message="There was an error calling the backend text extractor service",
         )
 
     # Cleans text and normalizes characters
@@ -57,16 +66,6 @@ def parse_resume(file: BinaryIO):
     skills = Skills()
     applicant = Applicant()
     overview = ""
-
-    # Labels to check against when parsing
-    skill_labels = ["PROG_LANG", "FRAMEWORK", "DATABASE", "DEVOPS", "DEV_TOOL"]
-    applicant_labels = [
-        "CONTACT_EMAIL",
-        "CONTACT_PHONE",
-        "GITHUB",
-        "LINKEDIN",
-        "WEBSITE",
-    ]
 
     # Used when processing block of job description items
     processing_descriptions = False
@@ -90,7 +89,12 @@ def parse_resume(file: BinaryIO):
 
             # If parsing description block, add to current needs_description object
             if processing_descriptions:
-                experience_items[needs_description].process_label(ent)
+                if needs_description >= len(experience_items):
+                    new_experience = Experience()
+                    new_experience.process_label(ent)
+                    experience_items.append(new_experience)
+                else:
+                    experience_items[needs_description].process_label(ent)
             else:
                 # Loop through the list if experience objects and add label to first that
                 # doesn't contain the current label
@@ -122,9 +126,9 @@ def parse_resume(file: BinaryIO):
                 new_education.process_label(ent)
                 education_items.append(new_education)
 
-        elif ent.label_ in skill_labels:
+        elif ent.label_ in SKILL_LABELS:
             skills.process_label(ent)
-        elif ent.label_ in applicant_labels:
+        elif ent.label_ in APPLICANT_LABLES:
             applicant.process_label(ent)
         elif ent.label_ == "OVERVIEW":
             overview = ent.text
