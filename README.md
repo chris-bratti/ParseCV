@@ -43,9 +43,9 @@ Accepts an `application/pdf` file and returns extracted resume information
 
 Example cURL:
 ```bash
-curl -x 'POST' 'http://localhost:8282/api/parse` \
+curl -X POST http://localhost:8282/api/parse` \
 -H 'accept: application/json` \
--F 'file=@resume.pdf
+-F 'resume=@resume.pdf
 ```
 
 Example response:
